@@ -1,0 +1,7 @@
+{
+  "name": "GastoSmart AI",
+  "description": "Una aplicación inteligente de control de gastos con análisis de recibos mediante IA y asistente financiero.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
